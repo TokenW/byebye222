@@ -14,3 +14,21 @@ jobs:
         continue-on-error: true
         run: |
           bash ./run.sh
+
+      - name: Git push assets to Github
+        run: |
+          git init
+          git config --local user.email "347362000@qq.com"
+          git config --local user.name "TokenW"
+          git branch -m master
+          git add --all
+          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
+          git push -u origin -f
+
+      - name: Delete workflow runs 
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 0
