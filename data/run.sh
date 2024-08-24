@@ -24,6 +24,7 @@ done
 # 合并文件
 echo "合并中......"
 cat "${temp_dir}"/* > rules.txt
+ls
 
 # 清理临时文件
 echo "清理临时文件......"
@@ -32,9 +33,11 @@ rm -rf "$temp_dir"
 # 去除重复行和以#或!开头的行
 echo "去除重复行和以#或!开头的行......"
 sort rules.txt | uniq | grep -vE '^(#|!|/)' > rules_cleaned.txt
+ls
 
 # 重命名清理后的文件为rules.txt
 pwd
 mv rules_cleaned.txt .././rules.txt
+ls
 
 echo "rules.txt has been created with unique lines and without lines starting with # or !"
