@@ -34,6 +34,7 @@ echo "去除重复行和以#或!开头的行......"
 sort rules.txt | uniq | grep -vE '^(#|!|/)' > rules_cleaned.txt
 
 # 重命名清理后的文件为rules.txt
+pwd
 mv rules_cleaned.txt .././rules.txt
 
 echo "rules.txt has been created with unique lines and without lines starting with # or !"
