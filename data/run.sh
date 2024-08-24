@@ -17,20 +17,23 @@ echo "Temporary directory created at $temp_dir"
 
 # 下载文件并合并
 for url in "${urls[@]}"; do
-  echo "Downloading from $url"
+  echo "正在下载 $url"
   curl -sL "$url" -o "${temp_dir}/$(basename "$url")"
 done
 
 # 合并文件
+echo "合并中......"
 cat "${temp_dir}"/* > rules.txt
 
 # 清理临时文件
+echo "清理临时文件......"
 rm -rf "$temp_dir"
 
 # 去除重复行和以#或!开头的行
-sort rules.txt | uniq | grep -vE '^(#|!)' > rules_cleaned.txt
+echo "去除重复行和以#或!开头的行......"
+sort rules.txt | uniq | grep -vE '^(#|!|/)' > rules_cleaned.txt
 
 # 重命名清理后的文件为rules.txt
-mv rules_cleaned.txt rules.txt
+mv rules_cleaned.txt .././rules.txt
 
 echo "rules.txt has been created with unique lines and without lines starting with # or !"
