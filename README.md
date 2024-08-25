@@ -19,7 +19,7 @@
 </ul>
 </details>
 
-<h2 id="c">🚫 拦截效果</h2>
+<h2 id="b">🚫 拦截效果</h2>
 
 [AdBlock Tester](https://adblock-tester.com)
 
@@ -27,7 +27,9 @@
 
 [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
 
+<h2 id="c">♥ 鸣谢</h2>
 
+待完善...
 
 
 
