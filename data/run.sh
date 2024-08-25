@@ -24,9 +24,9 @@ urls=(
 
 # 临时文件夹
 temp_dir=$(mktemp -d)
-echo "Temporary directory created at $temp_dir"
+echo "在 $temp_dir 创建临时目录"
 
-# 下载文件并合并
+# 下载文件
 for url in "${urls[@]}"; do
   echo "正在下载 $url"
   curl -sL "$url" -o "${temp_dir}/$(basename "$url")"
@@ -41,11 +41,11 @@ echo "清理临时文件......"
 rm -rf "$temp_dir"
 
 # 去除重复行和以#或!开头的行
-echo "去除重复行和以#或!开头的行......"
+echo "去除重复行和以#、!、/开头的行......"
 sort rules.txt | uniq | grep -vE '^(#|!|/)' > rules_cleaned.txt
 
 # 重命名清理后的文件为rules.txt
 mv rules_cleaned.txt .././rules.txt
 
 
-echo "rules.txt has been created with unique lines and without lines starting with # or !"
+echo "rules.txt去广告规则已创建......"
