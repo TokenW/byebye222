@@ -23,7 +23,7 @@ jobs:
           git branch -m master
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
-          git push -u origin HEAD:main
+          git push -u origin HEAD
 
       - name: Delete workflow runs 
         uses: Mattraks/delete-workflow-runs@main
