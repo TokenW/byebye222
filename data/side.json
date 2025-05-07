@@ -1,12 +1,8 @@
 {
     "servers": [
         {
-            "name": "SideStore",
+            "name": "自建SideStore",
             "address": "http://1.95.154.145:6969"
         },
-        {
-            "name": "SelfHost",
-            "address": "自建Anisette Servers地址"
-        }
     ]
 }
