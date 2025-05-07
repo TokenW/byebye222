@@ -3,6 +3,6 @@
         {
             "name": "自建SideStore",
             "address": "http://1.95.154.145:6969"
-        },
+        }
     ]
 }
