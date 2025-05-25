@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "name": "自建SideStore",
+            "name": "China SideStore",
             "address": "http://1.95.154.145:6969"
         }
     ]
