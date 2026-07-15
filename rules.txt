@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20260715093223
-! Last modified: 2026/07/15 09:32:23
-! Blocked domains: 185508
+! Version: 20260715105130
+! Last modified: 2026/07/15 10:51:30
+! Blocked domains: 185521
 ! unBlocked domains: 189
 !
 ||0-02.net^
@@ -14801,6 +14801,7 @@
 ||appart-checks.com^
 ||tss.appartbeaute.com^
 ||tss.appartement-neuf-corse.com^
+||appayairmass.cyou^
 ||appbaqend.com^
 ||rtb.appbid.com^
 ||i.appbox.me^
@@ -55493,6 +55494,7 @@
 ||webcontr.epig-media.de^
 ||data.epigenics.eu^
 ||epigynylirate.cyou^
+||epihyalkittle.cfd^
 ||epikads.com^
 ||epilaterepew.cyou^
 ||smetrics.epilessiadelcane.it^
@@ -56437,6 +56439,7 @@
 ||esvgyfsgpi.com^
 ||esvpnjdntgr.com^
 ||esvsojlfyppbv.website^
+||esvtlgehfyaim.site^
 ||esvunifeyiqhk.website^
 ||eswfsinghtywb.website^
 ||eswnaoudswvln.site^
@@ -77483,6 +77486,7 @@
 ||open-analytics.hrw.org^
 ||sst.hrw.org^
 ||marketing.hrware.ca^
+||hrweoipnefpud.space^
 ||hrwfrjwrekmqd.site^
 ||hrwlolycdpmnw.site^
 ||g.hrworks.de^
@@ -79865,6 +79869,7 @@
 ||ijaicjeojzjpr.site^
 ||ijdbmjqwzrcdw.website^
 ||ijdfchxgvhxvf.com^
+||ijdzylswxqvhw.online^
 ||uktc.ijento.com^
 ||ijfilqxkgrchg.space^
 ||ijhyugb.com^
@@ -83724,6 +83729,7 @@
 ||load.ssk.isic.se^
 ||ssk.isicdanmark.dk^
 ||url.isimsepeti.net^
+||isingmuddy.cyou^
 ||isinhaberi.com^
 ||isinpiri.com^
 ||adserver.ision.de^
@@ -105464,6 +105470,7 @@
 ||mntzco.com^
 ||static.mntzm.com^
 ||mntzr11.net^
+||mnungqboqpqax.website^
 ||g.mnw.cn^
 ||mnwgdkdarquqt.site^
 ||mnwxualktintr.website^
@@ -135125,6 +135132,7 @@
 ||analytics.repath.studio^
 ||tags.repatha.com^
 ||tags.repathahcp.com^
+||repayedsweet.com^
 ||load.toejsalg.repbasics.dk^
 ||smetrics.repco.co.nz^
 ||smetrics.repco.com.au^
@@ -139081,6 +139089,7 @@
 ||sachermes.fr^
 ||data-f7c9c12653.sachsen-fernsehen.de^
 ||sackedphil.com^
+||sackenprepink.shop^
 ||sacketbusmen.shop^
 ||hbgcxdsl.sackit.dk^
 ||hbgcxdsl.sackit.eu^
@@ -163191,6 +163200,7 @@
 ||data.tricel.co.uk^
 ||load.data.tricel.fr^
 ||load.data.tricelcomposites.co.uk^
+||tricesunplait.cfd^
 ||triche-et-pirater.net^
 ||trick-ditch.com^
 ||trick17.it^
@@ -169419,6 +169429,7 @@
 ||vdeztemladdeb.online^
 ||vdfgjn.icu^
 ||cmp.vdfin.be^
+||vdfiwnftz.com^
 ||haryyl.vdgarde.nl^
 ||vdgdlcthaugoa.site^
 ||vdggilkiyeagl.online^
@@ -174577,6 +174588,7 @@
 ||watertoyou.com^
 ||ggw.watertu.com^
 ||tag.waterworldmedford.com^
+||watery-concert.pro^
 ||watery-possession.pro^
 ||watery-result.com^
 ||load.gspwicky.watery.be^
@@ -174706,6 +174718,7 @@
 ||dc.waylet.es^
 ||waylowrates.net^
 ||info.wayne-dalton.com^
+||waynephoebuspur.qpon^
 ||shopifystore.waysidegardens.com^
 ||tsuubf.waysidegardens.com^
 ||share.wayup.com^
@@ -303541,9 +303554,9 @@
 !
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
-! Version: 1.0.38.12
+! Version: 1.0.38.13
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2026-07-15T01:39:27.042Z
+! Last modified: 2026-07-15T03:10:18.269Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -320825,6 +320838,7 @@
 ||apparatus49.top^
 ||apparatusvoyage.com^
 ||apparelimposter.com^
+||appayairmass.cyou^
 ||appbaqend.com^
 ||appboy-images.com^
 ||appboy.com^
@@ -321480,6 +321494,7 @@
 ||arrivedletdown.qpon^
 ||arrivedmuffin.com^
 ||arrivegrowth.com^
+||arrivesfarcer.qpon^
 ||arrivespeck.com^
 ||arrivingserpentoutbalance.com^
 ||arrjs.freestylephoto.com^
@@ -326790,6 +326805,7 @@
 ||boomerang.dell.com^
 ||boomvibices.qpon^
 ||boonkaleshot.cyou^
+||boonkslummy.qpon^
 ||boopisalce.shop^
 ||boopislucific.qpon^
 ||booseed.com^
@@ -327310,6 +327326,7 @@
 ||brandclik.com^
 ||brandlabs.ai^
 ||brandlediscase.qpon^
+||brandlemilled.cyou^
 ||brandmetrics.com^
 ||brandmovers-delivery.reviveservers.com^
 ||brandnewapp.pro^
@@ -330277,6 +330294,7 @@
 ||catshark.jimmyaldape.dev^
 ||catsnbootsncats2020.com^
 ||catsonictp.com^
+||catstepcoster.cyou^
 ||cattailpectinselected.com^
 ||cattell.loanzify.app^
 ||cattle.apisyouwonthate.com^
@@ -330497,6 +330515,7 @@
 ||cciqma.cosabella.com^
 ||ccjep.onehopewine.com^
 ||ccjfxvnyiqcfv.space^
+||ccjkxpbgfjoiw.space^
 ||ccjyphp.forum^
 ||ccjzuavqrh.com^
 ||cckov.bluatlas.com^
@@ -333156,6 +333175,7 @@
 ||cloudyreach.pro^
 ||cloudysoil.com^
 ||cloutypartim.com^
+||clovereyelike.cfd^
 ||cloverkeys.com^
 ||cloverleaf.infor.com^
 ||cloveswamptearing.com^
@@ -345066,6 +345086,7 @@
 ||dherea.site^
 ||dhfbm.auratenewyork.com^
 ||dhgnzynmufgpc.site^
+||dhhbzhrwbsscd.site^
 ||dhhsz.wedgegame.com^
 ||dhjapfgbrmawv.space^
 ||dhjrvj.xyz^
@@ -351717,6 +351738,7 @@
 ||epidzasjhnzoi.site^
 ||epigontinny.shop^
 ||epigynylirate.cyou^
+||epihyalkittle.cfd^
 ||epilaterepew.cyou^
 ||epilfleshedbeelbow.qpon^
 ||epiloggincorona.qpon^
@@ -354872,6 +354894,7 @@
 ||ffyvsn.evisu.com^
 ||ffzffn.satra.ru^
 ||ffzljtcftssxn.space^
+||ffzmdkcknvkuf.website^
 ||ffzob.4moms.com^
 ||ffzrs.sageandpaije.com.au^
 ||ffzz71.com^
@@ -361730,6 +361753,7 @@
 ||grabbit-rabbit.com^
 ||grabensbocagepluma.qpon^
 ||grabify.link^
+||grablanguid.qpon^
 ||grabschirked.cyou^
 ||grabtrust.icu^
 ||graceful-operation.com^
@@ -374212,6 +374236,7 @@
 ||ipcgssuxfrlmr.website^
 ||ipcheck.blogsys.jp^
 ||ipclt.pleasershoes.com^
+||ipcurxzoygpk.com^
 ||ipcywg.com^
 ||ipdata.adtech.fr^
 ||ipdata.adtech.us^
@@ -374549,6 +374574,7 @@
 ||isic.kopirkaostrava.cz^
 ||isicpartner.mamechut.cz^
 ||isine88.com^
+||isingmuddy.cyou^
 ||isiyxikfxjqwh.online^
 ||isjohgyixswow.com^
 ||isjoui.cainz.com^
@@ -378969,6 +378995,7 @@
 ||korgiejoinyou.com^
 ||koriavulses.cyou^
 ||korodrogerie.fr^
+||korovaafflux.qpon^
 ||korrelate.net^
 ||korsscuba.shop^
 ||kory.fillyourbooks.com^
@@ -380778,6 +380805,7 @@
 ||legalizeshort.com^
 ||legallydune.com^
 ||legdeh.fun^
+||legder.com-softwares.com^
 ||legendssagely.qpon^
 ||legfigaro.fr^
 ||legfrissebb.info^
@@ -390331,6 +390359,7 @@
 ||malitialabour.cfd^
 ||maliva-mcs.byteoversea.com^
 ||maljxp.cn^
+||malkitelapsed.qpon^
 ||mall0.qiyipic.com^
 ||malleinpearceorioles.cyou^
 ||malletthingluxury.com^
@@ -397294,6 +397323,7 @@
 ||mnttmnonaroop.online^
 ||mntzr11.net^
 ||mntzrlt.net^
+||mnungqboqpqax.website^
 ||mnusq.vmax-escooter.us^
 ||mnutan.fr^
 ||mnwce.killerbodyfood.com^
@@ -416469,6 +416499,7 @@
 ||rep.reptileshouse.it^
 ||repantalsedighters.com^
 ||repartclasps.qpon^
+||repayedsweet.com^
 ||repdata.12newsnow.com^
 ||repdata.9news.com^
 ||repdata.app.com^
@@ -450667,6 +450698,7 @@
 ||swollenbasis.com^
 ||swonswksodcbc.website^
 ||swooppolygraph.com^
+||swopkodakerrastus.cfd^
 ||swopxenopus.qpon^
 ||swoqxitffjvon.online^
 ||swordfish.elvietanny.com^
@@ -461015,6 +461047,7 @@
 ||tributeinducedfuzzy.com^
 ||tributeparticle.com^
 ||tribzonnar.cyou^
+||tricesunplait.cfd^
 ||triches.anunciojuridico.com.br^
 ||tricity1.bringbackyoursmile.com^
 ||trickfile.com^
@@ -475300,6 +475333,7 @@
 ||xemmgygfgjytb.website^
 ||xemswfbrdhrts.website^
 ||xen-media.com^
+||xenialdisco.qpon^
 ||xenical.1.p2l.info^
 ||xenical.3.p2l.info^
 ||xenical.4.p2l.info^
@@ -480550,6 +480584,7 @@
 ||zs.voyage-prive.com^
 ||zsaehoccyukuf.website^
 ||zsaiqrqhoqbdo.site^
+||zsbfaqmjzdopy.space^
 ||zsbkuvtdjhvvj.space^
 ||zscnz.sugarandheartclinic.com^
 ||zsefe.livesozy.com^
